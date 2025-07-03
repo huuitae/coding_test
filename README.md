@@ -45,10 +45,16 @@
 ---
 
 **2025년 07월**
-| 문제 | 이해도 🟢/🟡/🔴 |
-| --------------------------------------------------------------------------------------------------- | :-------------: |
-| [배열 만들기5](https://school.programmers.co.kr/learn/courses/30/lessons/181912) | 🟢 |
-| [부분 문자열 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181911) | 🟢 |
-| [문자열 뒤의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181910) | 🟢 |
-| [접미사 배열](https://school.programmers.co.kr/learn/courses/30/lessons/181909) | 🟢 |
-| [접미사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181908) | 🟢 |
+
+프로그래머스 LV0
+
+| 문제                                                                                                    | 이해도 🟢/🟡/🔴 |
+| ------------------------------------------------------------------------------------------------------- | :-------------: |
+| [배열 만들기5](https://school.programmers.co.kr/learn/courses/30/lessons/181912)                        |       🟢        |
+| [부분 문자열 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181911) |       🟢        |
+| [문자열 뒤의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181910)                   |       🟢        |
+| [접미사 배열](https://school.programmers.co.kr/learn/courses/30/lessons/181909)                         |       🟢        |
+| [접미사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181908)                 |       🟢        |
+| [문자열의 앞의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181907)                 |       🟢        |
+| [접두사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181906)                 |       🟢        |
+| [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181905)                       |       🟢        |
