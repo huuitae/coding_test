@@ -58,3 +58,6 @@
 | [문자열의 앞의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181907)                 |       🟢        |
 | [접두사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181906)                 |       🟢        |
 | [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181905)                       |       🟢        |
+| [세로 읽기](https://school.programmers.co.kr/learn/courses/30/lessons/181904)                           |       🟢        |
+| [qr code](https://school.programmers.co.kr/learn/courses/30/lessons/181903)                             |       🟢        |
+| [문자 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181902)                      |       🔴        |
