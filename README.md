@@ -76,4 +76,10 @@
 | [첫 번째로 나오는 음수](https://school.programmers.co.kr/learn/courses/30/lessons/181896)               |    🟢    |
 | [배열 만들기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181895)                       |    🟢    |
 | [2의 영역](https://school.programmers.co.kr/learn/courses/30/lessons/181894)                            |    🟢    |
-| [배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181894)                       |    🟢    |
+| [배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893)                       |    🟢    |
+| [n 번째 원소부터](https://school.programmers.co.kr/learn/courses/30/lessons/181892)                     |    🟢    |
+| [순서 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181891)                         |    🟢    |
+| [왼쪽 오른쪽](https://school.programmers.co.kr/learn/courses/30/lessons/181890)                         |    🔴    |
+| [n 번째 원소 까지](https://school.programmers.co.kr/learn/courses/30/lessons/181889)                    |    🟢    |
+| [n개 간격의 원소들](https://school.programmers.co.kr/learn/courses/30/lessons/181888)                   |    🟢    |
+| [홀수 vs 짝수](https://school.programmers.co.kr/learn/courses/30/lessons/181887)                        |    🟢    |
