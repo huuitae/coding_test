@@ -56,39 +56,46 @@
 - 🟡: 1시간내로 제출 완료
 - 🔴: 답안을 확인하여 제출 완료
 
-| 문제                                                                                                    | 소요시간 |
-| ------------------------------------------------------------------------------------------------------- | :------: |
-| [배열 만들기5](https://school.programmers.co.kr/learn/courses/30/lessons/181912)                        |    🟢    |
-| [부분 문자열 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181911) |    🟢    |
-| [문자열 뒤의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181910)                   |    🟢    |
-| [접미사 배열](https://school.programmers.co.kr/learn/courses/30/lessons/181909)                         |    🟢    |
-| [접미사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181908)                 |    🟢    |
-| [문자열의 앞의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181907)                 |    🟢    |
-| [접두사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181906)                 |    🟢    |
-| [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181905)                       |    🟢    |
-| [세로 읽기](https://school.programmers.co.kr/learn/courses/30/lessons/181904)                           |    🟢    |
-| [qr code](https://school.programmers.co.kr/learn/courses/30/lessons/181903)                             |    🟢    |
-| [문자 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181902)                      |    🔴    |
-| [배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901)                       |    🟢    |
-| [글자 지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900)                         |    🟢    |
-| [가까운 1 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181898)                       |    🟢    |
-| [리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897)                       |    🟢    |
-| [첫 번째로 나오는 음수](https://school.programmers.co.kr/learn/courses/30/lessons/181896)               |    🟢    |
-| [배열 만들기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181895)                       |    🟢    |
-| [2의 영역](https://school.programmers.co.kr/learn/courses/30/lessons/181894)                            |    🟢    |
-| [배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893)                       |    🟢    |
-| [n 번째 원소부터](https://school.programmers.co.kr/learn/courses/30/lessons/181892)                     |    🟢    |
-| [순서 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181891)                         |    🟢    |
-| [왼쪽 오른쪽](https://school.programmers.co.kr/learn/courses/30/lessons/181890)                         |    🔴    |
-| [n 번째 원소 까지](https://school.programmers.co.kr/learn/courses/30/lessons/181889)                    |    🟢    |
-| [n개 간격의 원소들](https://school.programmers.co.kr/learn/courses/30/lessons/181888)                   |    🟢    |
-| [홀수 vs 짝수](https://school.programmers.co.kr/learn/courses/30/lessons/181887)                        |    🟢    |
-| [5명씩](https://school.programmers.co.kr/learn/courses/30/lessons/181886)                               |    🟢    |
-| [할 일 목록](https://school.programmers.co.kr/learn/courses/30/lessons/181885)                          |    🟢    |
-| [n보다 커질 때 까지 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181884)           |    🟢    |
-| [수열과 구간 쿼리 1](https://school.programmers.co.kr/learn/courses/30/lessons/181883)                  |    🟢    |
-| [조건에 맞게 수열 변환하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181882)         |    🟢    |
-| [조건에 맞게 수열 변환하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181881)         |    🟢    |
-| [1로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181880)                          |    🟢    |
-| [길이에 따른 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181879)                    |    🟢    |
-| [원하는 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181878)                  |    🟢    |
+| 문제                                                                                                                | 소요시간 |
+| ------------------------------------------------------------------------------------------------------------------- | :------: |
+| [배열 만들기5](https://school.programmers.co.kr/learn/courses/30/lessons/181912)                                    |    🟢    |
+| [부분 문자열 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181911)             |    🟢    |
+| [문자열 뒤의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181910)                               |    🟢    |
+| [접미사 배열](https://school.programmers.co.kr/learn/courses/30/lessons/181909)                                     |    🟢    |
+| [접미사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181908)                             |    🟢    |
+| [문자열의 앞의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181907)                             |    🟢    |
+| [접두사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181906)                             |    🟢    |
+| [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181905)                                   |    🟢    |
+| [세로 읽기](https://school.programmers.co.kr/learn/courses/30/lessons/181904)                                       |    🟢    |
+| [qr code](https://school.programmers.co.kr/learn/courses/30/lessons/181903)                                         |    🟢    |
+| [문자 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181902)                                  |    🔴    |
+| [배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901)                                   |    🟢    |
+| [글자 지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900)                                     |    🟢    |
+| [가까운 1 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181898)                                   |    🟢    |
+| [리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897)                                   |    🟢    |
+| [첫 번째로 나오는 음수](https://school.programmers.co.kr/learn/courses/30/lessons/181896)                           |    🟢    |
+| [배열 만들기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181895)                                   |    🟢    |
+| [2의 영역](https://school.programmers.co.kr/learn/courses/30/lessons/181894)                                        |    🟢    |
+| [배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893)                                   |    🟢    |
+| [n 번째 원소부터](https://school.programmers.co.kr/learn/courses/30/lessons/181892)                                 |    🟢    |
+| [순서 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181891)                                     |    🟢    |
+| [왼쪽 오른쪽](https://school.programmers.co.kr/learn/courses/30/lessons/181890)                                     |    🔴    |
+| [n 번째 원소 까지](https://school.programmers.co.kr/learn/courses/30/lessons/181889)                                |    🟢    |
+| [n개 간격의 원소들](https://school.programmers.co.kr/learn/courses/30/lessons/181888)                               |    🟢    |
+| [홀수 vs 짝수](https://school.programmers.co.kr/learn/courses/30/lessons/181887)                                    |    🟢    |
+| [5명씩](https://school.programmers.co.kr/learn/courses/30/lessons/181886)                                           |    🟢    |
+| [할 일 목록](https://school.programmers.co.kr/learn/courses/30/lessons/181885)                                      |    🟢    |
+| [n보다 커질 때 까지 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181884)                       |    🟢    |
+| [수열과 구간 쿼리 1](https://school.programmers.co.kr/learn/courses/30/lessons/181883)                              |    🟢    |
+| [조건에 맞게 수열 변환하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181882)                     |    🟢    |
+| [조건에 맞게 수열 변환하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181881)                     |    🟢    |
+| [1로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181880)                                      |    🟢    |
+| [길이에 따른 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181879)                                |    🟢    |
+| [원하는 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181878)                              |    🟡    |
+| [대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181877)                                 |    🟢    |
+| [소문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181876)                                 |    🟢    |
+| [배열에서 문자열 대소문자 변경하기](https://school.programmers.co.kr/learn/courses/30/lessons/181875)               |    🟢    |
+| [A 강조하기](https://school.programmers.co.kr/learn/courses/30/lessons/181874)                                      |    🟢    |
+| [특정한 문자를 대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181873)                   |    🟢    |
+| [특정한 문자열로 끝나는 가장 긴 부분 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181872) |    🟢    |
+| [문자열이 몇 번 등장하는지 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181871)                  |    🟢    |
