@@ -99,3 +99,9 @@
 | [특정한 문자를 대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181873)                   |    🟢    |
 | [특정한 문자열로 끝나는 가장 긴 부분 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181872) |    🟢    |
 | [문자열이 몇 번 등장하는지 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181871)                  |    🟢    |
+| [ad 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181870)                                     |    🟢    |
+| [공백으로 구분하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181869)                             |    🟢    |
+| [공백으로 구분하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181868)                             |    🟢    |
+| [x 사이의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/181867)                                   |    🟢    |
+| [문자열 잘라서 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/181866)                          |    🟢    |
+| [간단한 식 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181865)                              |    🟢    |
