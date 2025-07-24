@@ -105,3 +105,8 @@
 | [x 사이의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/181867)                                   |    🟢    |
 | [문자열 잘라서 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/181866)                          |    🟢    |
 | [간단한 식 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181865)                              |    🟢    |
+| [문자열 바꿔서 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181864)                              |    🟢    |
+| [rny_string](https://school.programmers.co.kr/learn/courses/30/lessons/181863)                                      |    🟢    |
+| [세 개의 구분자](https://school.programmers.co.kr/learn/courses/30/lessons/181862)                                  |    🔴    |
+| [배열의 원소만큼 추가하기](https://school.programmers.co.kr/learn/courses/30/lessons/181861)                        |    🟢    |
+| [빈 배열에 추가, 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181860)                        |    🟢    |
