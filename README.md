@@ -110,3 +110,5 @@
 | [세 개의 구분자](https://school.programmers.co.kr/learn/courses/30/lessons/181862)                                  |    🔴    |
 | [배열의 원소만큼 추가하기](https://school.programmers.co.kr/learn/courses/30/lessons/181861)                        |    🟢    |
 | [빈 배열에 추가, 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181860)                        |    🟢    |
+| [배열 만들기 6](https://school.programmers.co.kr/learn/courses/30/lessons/181859)                                   |    🟢    |
+| [무작위로 k개의 수 뽑기](https://school.programmers.co.kr/learn/courses/30/lessons/181858)                          |    🟡    |
