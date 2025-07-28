@@ -112,6 +112,8 @@
 | [빈 배열에 추가, 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181860)                        |    🟢    |
 | [배열 만들기 6](https://school.programmers.co.kr/learn/courses/30/lessons/181859)                                   |    🟢    |
 | [무작위로 k개의 수 뽑기](https://school.programmers.co.kr/learn/courses/30/lessons/181858)                          |    🟡    |
-| [배열의 길이를 2의 거듭 제곱으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181858)          |    🔴    |
-| [배열 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181858)                                   |    🟢    |
-| [문자열 묶기](https://school.programmers.co.kr/learn/courses/30/lessons/181858)                                     |    🔴    |
+| [배열의 길이를 2의 거듭 제곱으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181857)          |    🔴    |
+| [배열 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181856)                                   |    🟢    |
+| [문자열 묶기](https://school.programmers.co.kr/learn/courses/30/lessons/181855)                                     |    🔴    |
+| [배열의 길이에 따라 다른 연산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181854)                |    🟢    |
+| [뒤에서 5등까지](https://school.programmers.co.kr/learn/courses/30/lessons/181853)                                  |    🟢    |
