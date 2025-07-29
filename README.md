@@ -117,3 +117,12 @@
 | [문자열 묶기](https://school.programmers.co.kr/learn/courses/30/lessons/181855)                                     |    🔴    |
 | [배열의 길이에 따라 다른 연산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181854)                |    🟢    |
 | [뒤에서 5등까지](https://school.programmers.co.kr/learn/courses/30/lessons/181853)                                  |    🟢    |
+| [뒤에서 5등 위로](https://school.programmers.co.kr/learn/courses/30/lessons/181852)                                 |    🟢    |
+| [전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851)                             |    🟡    |
+| [정수 부분](https://school.programmers.co.kr/learn/courses/30/lessons/181850)                                       |    🟢    |
+| [문자열 정수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181849)                                |    🟢    |
+| [문자열 정수로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181848)                          |    🟢    |
+| [0떼기](https://school.programmers.co.kr/learn/courses/30/lessons/181847)                                           |    🟢    |
+| [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181846)                                      |    🟢    |
+| [문자열로 변환](https://school.programmers.co.kr/learn/courses/30/lessons/181845)                                   |    🟢    |
+| [배열의 원소 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181844)                            |    🟡    |
