@@ -136,4 +136,7 @@
 | [그림 확대](https://school.programmers.co.kr/learn/courses/30/lessons/181836)                                       |    🟢    |
 | [조건에 맞게 수열 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181835)                       |    🟢    |
 | [l로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181834)                                      |    🟢    |
-| [특별한 이차원 배열](https://school.programmers.co.kr/learn/courses/30/lessons/181833)                              |    🟢    |
+| [특별한 이차원 배열1](https://school.programmers.co.kr/learn/courses/30/lessons/181833)                             |    🟢    |
+| [특별한 이차원 배열2](https://school.programmers.co.kr/learn/courses/30/lessons/181831)                             |    🟢    |
+| [정사각형으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181830)                             |    🟢    |
+| [이차원 배열의 대각선 순회하기](https://school.programmers.co.kr/learn/courses/30/lessons/181829)                   |    🟢    |
