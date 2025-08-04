@@ -136,7 +136,29 @@
 | [그림 확대](https://school.programmers.co.kr/learn/courses/30/lessons/181836)                                       |    🟢    |
 | [조건에 맞게 수열 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181835)                       |    🟢    |
 | [l로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181834)                                      |    🟢    |
-| [특별한 이차원 배열1](https://school.programmers.co.kr/learn/courses/30/lessons/181833)                             |    🟢    |
-| [특별한 이차원 배열2](https://school.programmers.co.kr/learn/courses/30/lessons/181831)                             |    🟢    |
-| [정사각형으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181830)                             |    🟢    |
-| [이차원 배열의 대각선 순회하기](https://school.programmers.co.kr/learn/courses/30/lessons/181829)                   |    🟢    |
+
+---
+
+**2025년 08월**
+
+프로그래머스 LV1
+
+- 🟢: 30분내로 제출 완료
+- 🟡: 1시간내로 제출 완료
+- 🔴: 답안을 확인하여 제출 완료
+
+| 문제                                                                                                    | 소요시간 |
+| ------------------------------------------------------------------------------------------------------- | :------: |
+| [특별한 이차원 배열1 (LV0)](https://school.programmers.co.kr/learn/courses/30/lessons/181833)           |    🟢    |
+| [특별한 이차원 배열2 (LV0)](https://school.programmers.co.kr/learn/courses/30/lessons/181831)           |    🟢    |
+| [정사각형으로 만들기 (LV0)](https://school.programmers.co.kr/learn/courses/30/lessons/181830)           |    🟢    |
+| [이차원 배열의 대각선 순회하기 (LV0)](https://school.programmers.co.kr/learn/courses/30/lessons/181829) |    🟢    |
+| [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931)                        |    🟢    |
+| [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)          |    🟢    |
+| [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937)                          |    🟢    |
+| [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944)                          |    🟢    |
+| [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954)         |    🟢    |
+| [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)            |    🟢    |
+| [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925)               |    🟢    |
+| [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928)                            |    🟢    |
+| [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912)                    |    🟢    |
