@@ -162,3 +162,9 @@
 | [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925)               |    🟢    |
 | [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928)                            |    🟢    |
 | [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912)                    |    🟢    |
+| [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)               |    🟢    |
+| [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934)                     |    🟢    |
+| [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)                            |    🟢    |
+| [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)                          |    🟢    |
+| [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)                     |    🟢    |
+| [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933)           |    🟢    |
