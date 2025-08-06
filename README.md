@@ -168,3 +168,7 @@
 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)                          |    🟢    |
 | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)                     |    🟢    |
 | [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933)           |    🟢    |
+| [나누어 떨어지는 숫자배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)             |    🟢    |
+| [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)                          |    🟢    |
+| [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)                   |    🟢    |
+| [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)                 |    🟢    |
