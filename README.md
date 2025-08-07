@@ -172,3 +172,8 @@
 | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)                          |    🟢    |
 | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)                   |    🟢    |
 | [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)                 |    🟢    |
+| [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)                |    🟢    |
+| [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)                                 |    🟢    |
+| [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)              |    🟢    |
+| [약수의 개수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)                   |    🟢    |
+| [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)         |    🔴    |
