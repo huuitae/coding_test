@@ -177,3 +177,6 @@
 | [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)              |    🟢    |
 | [약수의 개수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)                   |    🟢    |
 | [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)         |    🔴    |
+| [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)                 |    🟢    |
+| [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)                   |    🔴    |
+| [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)                          |    🟢    |
