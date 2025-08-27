@@ -180,3 +180,6 @@
 | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)                 |    🟢    |
 | [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)                   |    🔴    |
 | [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)                          |    🟢    |
+| [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)                      |    🟢    |
+| [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)                     |    🟢    |
+| [최대공약수와\_최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)             |    🔴    |
