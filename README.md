@@ -182,4 +182,6 @@
 | [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)                          |    🟢    |
 | [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)                      |    🟢    |
 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)                     |    🟢    |
-| [최대공약수와\_최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)             |    🔴    |
+| [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)              |    🔴    |
+| [크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/1473335)            |    🟢    |
+| [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)                                 |    🔴    |
