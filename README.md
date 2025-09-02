@@ -185,3 +185,18 @@
 | [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)              |    🔴    |
 | [크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/1473335)            |    🟢    |
 | [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)                                 |    🔴    |
+| [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)                         |    🔴    |
+
+**2025년 09월**
+
+프로그래머스 LV1
+
+- 🟢: 30분내로 제출 완료
+- 🟡: 1시간내로 제출 완료
+- 🔴: 답안을 확인하여 제출 완료
+
+| 문제                                                                                  | 소요시간 |
+| ------------------------------------------------------------------------------------- | :------: |
+| [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)            |    🔴    |
+| [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930) |    🟢    |
+| [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)       |    🔴    |
