@@ -201,3 +201,4 @@
 | [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)     |    🟢    |
 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)           |    🔴    |
 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) |    🟡    |
+| [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)              |    🔴    |
