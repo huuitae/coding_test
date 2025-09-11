@@ -205,6 +205,7 @@
 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)     | 🔴(해시) |
 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)                  |    🔴    |
 | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)    |    🟢    |
+| [푸드 파이터 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)       |    🟢    |
 
 프로그래머스 LV2
 
