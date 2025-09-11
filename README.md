@@ -204,6 +204,7 @@
 | [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)              |    🔴    |
 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)     | 🔴(해시) |
 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)                  |    🔴    |
+| [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)    |    🟢    |
 
 프로그래머스 LV2
 
@@ -211,6 +212,6 @@
 - 🟡: 1시간내로 제출 완료
 - 🔴: 답안을 확인하여 제출 완료
 
-  | 문제                                                                             | 소요시간 |
-  | -------------------------------------------------------------------------------- | :------: |
-  | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) |    🔴    |
+| 문제                                                                             | 소요시간 |
+| -------------------------------------------------------------------------------- | :------: |
+| [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) |    🔴    |
