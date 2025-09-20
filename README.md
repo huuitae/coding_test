@@ -195,20 +195,22 @@
 - 🟡: 1시간내로 제출 완료
 - 🔴: 답안을 확인하여 제출 완료
 
-| 문제                                                                                      | 소요시간 |
-| ----------------------------------------------------------------------------------------- | :------: |
-| [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)                |    🔴    |
-| [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)     |    🟢    |
-| [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)           |    🔴    |
-| [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) |    🟡    |
-| [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)              |    🔴    |
-| [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)     | 🔴(해시) |
-| [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)                  |    🔴    |
-| [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)    |    🟢    |
-| [푸드 파이터 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)      |    🟢    |
-| [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)   |    🟡    |
-| [k번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)                |    🟢    |
-| [콜라문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)              |    🟡    |
+| 문제                                                                                           | 소요시간 |
+| ---------------------------------------------------------------------------------------------- | :------: |
+| [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)                     |    🔴    |
+| [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)          |    🟢    |
+| [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)                |    🔴    |
+| [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)      |    🟡    |
+| [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)                   |    🔴    |
+| [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)          | 🔴(해시) |
+| [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)                       |    🔴    |
+| [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)         |    🟢    |
+| [푸드 파이터 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)           |    🟢    |
+| [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)        |    🟡    |
+| [k번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)                     |    🟢    |
+| [콜라문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)                   |    🟡    |
+| [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12925) |    🟡    |
+| [명예의전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)              |    🟢    |
 
 프로그래머스 LV2
 
