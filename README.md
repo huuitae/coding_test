@@ -212,6 +212,8 @@
 | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12925) |    🟡    |
 | [명예의전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)              |    🟢    |
 | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)                  |    🔴    |
+| [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)                  |    🟢    |
+| [비밀 지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)                   |    🟡    |
 
 프로그래머스 LV2
 
