@@ -212,8 +212,6 @@
 | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12925) |    🟡    |
 | [명예의전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)              |    🟢    |
 | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)                  |    🔴    |
-| [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)                  |    🟢    |
-| [비밀 지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)                   |    🟡    |
 
 프로그래머스 LV2
 
@@ -224,3 +222,17 @@
 | 문제                                                                             | 소요시간 |
 | -------------------------------------------------------------------------------- | :------: |
 | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) |    🔴    |
+
+**2025년 10월**
+
+프로그래머스 LV1
+
+- 🟢: 30분내로 제출 완료
+- 🟡: 1시간내로 제출 완료
+- 🔴: 답안을 확인하여 제출 완료
+
+| 문제                                                                                | 소요시간 |
+| ----------------------------------------------------------------------------------- | :------: |
+| [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)       |    🟢    |
+| [비밀 지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)        |    🟡    |
+| [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) |    🔴    |
