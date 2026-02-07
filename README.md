@@ -256,3 +256,16 @@
 | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) |    🔴    |
 
 ---
+
+**2026년 02월**
+
+- 🟢: 30분내로 제출 완료
+- 🟡: 1시간내로 제출 완료
+- 🔴: 답안을 확인하여 제출 완료
+
+| 문제                                                                           | 소요시간 |
+| ------------------------------------------------------------------------------ | :------: |
+| [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)    |    🔴    |
+| [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) |    🟡    |
+
+---
