@@ -231,10 +231,11 @@
 
 **2026년 02월**
 
-| 문제                                                                           | 알고리즘 |
-| ------------------------------------------------------------------------------ | :------: |
-| [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)    |    큐    |
-| [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) |   스택   |
-| [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)    |    큐    |
+| 문제                                                                                  | 알고리즘 |
+| ------------------------------------------------------------------------------------- | :------: |
+| [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)           |    큐    |
+| [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)        |   스택   |
+| [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)           |    큐    |
+| [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) |    큐    |
 
 ---

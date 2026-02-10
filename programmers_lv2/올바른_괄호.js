@@ -1,21 +1,13 @@
 function solution(s) {
-  let stack = [];
-  let cursor = 0;
+  let check = 0;
 
   for (let i = 0; i < s.length; i++) {
-    stack.push(s[i]);
-    cursor++;
+    s[i] === "(" ? check++ : check--;
 
-    if (stack.length >= 2) {
-      if (stack[cursor - 2] + stack[cursor - 1] === "()") {
-        stack.pop();
-        stack.pop();
-        cursor -= 2;
-      }
-    }
+    if (check < 0) return false;
   }
 
-  return !stack.length;
+  return check === 0;
 
   // 다른 풀이
   // let cum = 0
