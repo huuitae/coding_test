@@ -237,5 +237,7 @@
 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)        |   스택   |
 | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)           |    큐    |
 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) |    큐    |
+| [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)           |   스택   |
+| [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)          |   DFS    |
 
 ---
