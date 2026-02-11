@@ -239,5 +239,6 @@
 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) |    큐    |
 | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)           |   스택   |
 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)          |   DFS    |
+| [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)           |   DFS    |
 
 ---
