@@ -241,5 +241,6 @@
 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)                       |   DFS    |
 | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)                        |   DFS    |
 | [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) |  문자열  |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/)                                               |   배열   |
 
 ---
